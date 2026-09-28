@@ -1,0 +1,1 @@
+This repo holds my runtime component (rc) files. These are settings files that programs read when they start, like the ones for my shell, Vim, Git, and debugger. I keep them here so I can set up a new computer fast and see how my setup changes over time.
